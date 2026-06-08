@@ -1,0 +1,26 @@
+main:
+
+  - title: Discovering alternative solutions beyond the simplicity bias in recurrent neural networks
+    authors: <strong>William Qian</strong>, Cengiz Pehlevan
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2509.21504
+
+  - title: Partial observation can induce mechanistic mismatches in data-constrained models of neural dynamics
+    authors: <strong>William Qian</strong>, Jacob A. Zavatone-Veth, Benjamin S. Ruben, Cengiz Pehlevan
+    conference_short: NeurIPS
+    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
+    pdf: https://proceedings.neurips.cc/paper_files/paper/2024/hash/7caf9d251b546bc78078b35b4a6f3b7e-Abstract-Conference.html
+    page: https://openreview.net/forum?id=LCEgP7Ir6k
+
+  - title: Optimizing the human learnability of abstract network representations
+    authors: <strong>William Qian</strong>, Christopher W. Lynn, Andrei A. Klishin, Jennifer Stiso, Nicolas H. Christianson, Dani S. Bassett
+    conference_short: PNAS
+    conference: Proceedings of the National Academy of Sciences <strong>(PNAS)</strong>, 2022.
+    pdf: https://www.pnas.org/doi/10.1073/pnas.2121338119
+
+  - title: Path-dependent dynamics induced by rewiring networks of inertial oscillators
+    authors: <strong>William Qian</strong>, Lia Papadopoulos, Zhixin Lu, Keith A. Kroma-Wiley, Fabio Pasqualetti, Dani S. Bassett
+    conference_short: PRE
+    conference: Physical Review E <strong>(PRE)</strong>, 2022.
+    pdf: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.024304
