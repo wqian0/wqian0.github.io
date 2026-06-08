@@ -6,6 +6,18 @@ main:
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
     pdf: https://arxiv.org/abs/2509.21504
 
+  - title: "Deep RL Needs Deep Behavior Analysis: Exploring Implicit Planning by Model-Free Agents in Open-Ended Environments"
+    authors: Riley Simmons-Edler, Ryan P. Badman, Felix Baastad Berg, Raymond Chua, John J. Vastola, Joshua Lunger, <strong>William Qian</strong>, Kanaka Rajan
+    conference_short: NeurIPS
+    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2506.06981
+
+  - title: Neurocomputational underpinnings of suboptimal beliefs in reinforcement learning agents
+    authors: M. Ganesh Kumar, Adam Manoogian, <strong>William Qian</strong>, Cengiz Pehlevan, Shawn A. Rhoads
+    conference_short: CCN
+    conference: Conference on Cognitive Computational Neuroscience <strong>(CCN)</strong>, 2025.
+    pdf: https://openreview.net/forum?id=4eOcvVeZSl
+
   - title: Partial observation can induce mechanistic mismatches in data-constrained models of neural dynamics
     authors: <strong>William Qian</strong>, Jacob A. Zavatone-Veth, Benjamin S. Ruben, Cengiz Pehlevan
     conference_short: NeurIPS

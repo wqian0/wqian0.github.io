@@ -84,6 +84,8 @@ html = f'''<!DOCTYPE html>
 <title>{cfg["title"]} | {cfg["affiliation"]}</title>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" href="{cfg['favicon']}" type="image/png" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <style>{inline_css}</style>
 </head><body><div class="wrapper">
 <header>
