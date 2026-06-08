@@ -62,6 +62,8 @@ inline_css = load_css("style.css") + "\n" + load_css("publications.css")
 # web font, so it falls back to the system stack — the live site loads the real font).
 if cfg.get("font") == "Sans Serif":
     inline_css += "\nbody{font:16px/1.65 Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;-webkit-font-smoothing:antialiased;}"
+# Mirror manual _sass tweaks that the pre-compiled style.css doesn't reflect.
+inline_css += "\nemail{font-family:inherit;}"
 
 # --- header (mirrors _layouts/homepage.html) ---
 css_base = "./html_source_file/assets/css"
