@@ -10,6 +10,11 @@ email: williamqian (at) g.harvard.edu
 keywords: William Qian, Billy Qian, Harvard, biophysics, Pehlevan, Kempner, recurrent neural networks, theoretical neuroscience, machine learning
 description: William (Billy) Qian is a Ph.D. candidate in Biophysics at Harvard University, working on the theory of neural computation and recurrent neural networks in the Pehlevan Group.
 canonical: https://wqian0.github.io/
+url: https://wqian0.github.io
+
+# Generates sitemap.xml (and robots.txt pointing to it) for search engines
+plugins:
+  - jekyll-sitemap
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.
