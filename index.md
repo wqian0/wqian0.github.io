@@ -6,7 +6,7 @@ layout: homepage
 
 Hi! I am a Ph.D. candidate in the [Biophysics graduate program](https://biophysics.fas.harvard.edu/) at Harvard University, advised by Professor [Cengiz Pehlevan](https://pehlevan.seas.harvard.edu/). I am fortunate to be supported by the [Kempner](https://kempnerinstitute.harvard.edu/) Graduate Fellowship.
 
-I am interested in bridging the gap between biological and artificial neural networks, with a focus on extracting interpretable insights about recurrent computations in these systems. To do this, I draw on perspectives from dynamical systems theory and machine learning.
+I am interested in bridging the gap between biological and artificial neural networks, with a focus on extracting interpretable insights about recurrent computations in these systems. To do this, I draw on perspectives from machine learning and dynamical systems theory.
 
 ## News
 - **[Mar. 2026]** I will be at COSYNE presenting a poster on escaping the simplicity bias in RNNs.
