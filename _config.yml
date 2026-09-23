@@ -16,6 +16,13 @@ url: https://wqian0.github.io
 plugins:
   - jekyll-sitemap
 
+# Keep the remote theme's placeholder files (e.g. an example CV PDF) out of the sitemap
+defaults:
+  - scope:
+      path: "assets/files"
+    values:
+      sitemap: false
+
 # Links
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=qvHp8KwAAAAJ&hl=en
