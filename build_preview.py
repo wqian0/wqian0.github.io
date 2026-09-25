@@ -2,7 +2,7 @@
 # eyeball the page without a Ruby/Jekyll toolchain. GitHub Pages does the real build.
 import re, yaml, markdown, pathlib
 
-root = pathlib.Path(r"C:\Users\billy\Documents\claude\academic_page")
+root = pathlib.Path(__file__).resolve().parent
 cfg = yaml.safe_load((root / "_config.yml").read_text(encoding="utf-8"))
 pubs = yaml.safe_load((root / "_data" / "publications.yml").read_text(encoding="utf-8"))["main"]
 
