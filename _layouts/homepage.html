@@ -14,6 +14,17 @@
     <link rel="canonical" href="{{ site.canonical }}"/>
     {% endif %}
     <meta name="google-site-verification" content="NVXp7psQml8VcCcAG7Ylj992-hkGYNzuVcXudmF3vUw" />
+    <meta property="og:site_name" content="{{ site.title }}" />
+    <!-- Site name shown by Google above search results (otherwise it falls back to "GitHub") -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "{{ site.title }}",
+      "alternateName": ["Billy Qian", "William Qian"],
+      "url": "{{ site.canonical }}"
+    }
+    </script>
 
     <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
     <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
