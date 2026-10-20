@@ -1,5 +1,11 @@
 main:
 
+  - title: Efficiency and robustness partition the solution space for memory in recurrent networks
+    authors: <strong>William Qian</strong>, Cengiz Pehlevan
+    conference_short: arXiv
+    conference: arXiv preprint, 2026.
+    pdf: https://arxiv.org/abs/2610.04697
+
   - title: Discovering alternative solutions beyond the simplicity bias in recurrent neural networks
     authors: <strong>William Qian</strong>, Cengiz Pehlevan
     conference_short: ICLR
